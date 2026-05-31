@@ -1,8 +1,8 @@
-# DICSTERY HACK v1.3.2
+# smuxo HACK v1.3.3
 
 Портативный хакерский мультитул в одном HTML-файле (PWA). Работает полностью в браузере, без сервера.
 
-![DICSTERY HACK](screenshots/main.png)
+![smuxo HACK](screenshots/main.png)
 
 ## Возможности
 
@@ -13,9 +13,9 @@
 - Встроенные команды: `help`, `clear`, `history`, `whois`, `dns`, `hash`, `encode`, `decode`
 
 ### 🌐 ПРОБИВ
-- **📱 Телефон** — htmlweb.ru + Numverify + PhoneNumberApi
-- **🌍 IP** — ip-api.com + ipinfo.io
-- **📧 Email** — XposedOrNot (проверка утечек)
+- **📱 Телефон**
+- **🌍 IP**
+- **📧 Email** (проверка утечек)
 - **🔎 Maigret** — поиск по 1400+ сайтам (кешируется)
 
 ### 🕸️ ВЕБ-ХАК
@@ -108,9 +108,7 @@
 
 ## Автор
 
-**Dicstery** — кодер, фанат космоса и программирования.
-
-- GitHub: [@dicstery]
+**smuxo** — кодер, фанат космоса и программирования.
 
 ## Лицензия
 
